@@ -74,8 +74,8 @@ Report: [PNJ's Stock Investment Analysis Report](Reports/PNJ's%20Stock%20Investm
 Description:
 - Gathered data from +25 PNJ’s company reports and Refinitiv Eikon
 - Developed assumptions to predict +33 financial statistics types
-- Conducted calculations for CAPM and DCF-FCFE Model
 - Visualized 37 graphs and 12 tables using Pivot Chart and Pivot Table
+- Conducted calculations for CAPM and DCF-FCFE Model
   
 
 ## R Reports
