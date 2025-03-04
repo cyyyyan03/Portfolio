@@ -1,7 +1,9 @@
 
 
 # About me
-Greetings! I'm Ngan Ha, and welcome to my portfolio.
+Greetings! I'm Ngan Ha, and welcome to my portfolio. 
+
+I am an innovative and action-oriented learner who has strong interest in product management, data-driven strategy and digital operations.
 
 # Contents
   
