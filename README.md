@@ -3,10 +3,6 @@
 # About me
 Greetings! I'm Ngan Ha, and welcome to my portfolio.
 
-I am innovative and action-oriented senior student at RMIT University Vietnam, majoring in Business (Economics and Finance).
-
-I am passionate about analyzing different data types, uncovering insights, and presenting them through beautiful visuals.
-
 # Contents
   
 <!-- TOC -->
